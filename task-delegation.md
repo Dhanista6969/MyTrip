@@ -10,4 +10,5 @@
 8. Integrate Multimedia content such as images, vides, and audio into the website
 9. Evaluate the overall perfomance of the website and app
 10. User Interface and Design
-11. Visual style of the website and mobile app protoype 
+11. Visual style of the website and mobile app protoype
+12. 
