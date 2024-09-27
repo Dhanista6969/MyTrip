@@ -8,6 +8,6 @@ So there are
 2. App Prototype  
    i. Explore and Booking  
   ii. Shop
-4. User Manual (Canva Slides) 
+4. User Manual (Canva Slides)  - Tew Jie Wen
 
 Let's add our name next to each 
