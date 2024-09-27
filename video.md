@@ -6,7 +6,7 @@ So there are
 
 1. Website - Dhanista 
 2. App Prototype  
-   i. Explore and Booking
+   i. Explore and Booking  
   ii. Shop
 4. User Manual (Canva Slides) 
 
