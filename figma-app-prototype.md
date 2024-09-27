@@ -2,10 +2,10 @@
 
 We will discuss on the application prototype here 😊
 
-1. Launch Page
-2. Explore Page
-3. Booking Page
-4. Shop Page
-5. Profile Page
+1. Launch Page -  Dhanista 
+2. Explore Page - Dhanista
+3. Booking Page - Dhanista
+4. Shop Page - Dhanista 
+5. Profile Page - Dhanista 
 
-Let's add our name next to each 
+Let's add our name next to each (can be more than one person in each section)
