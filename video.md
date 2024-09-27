@@ -6,4 +6,8 @@ So there are
 
 1. Website - Dhanista 
 2. App Prototype
-3. User Manual 
+   i. Explore and Booking
+  ii. Shop
+4. User Manual (Canva Slides) 
+
+Let's add our name next to each 
